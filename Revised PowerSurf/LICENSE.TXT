@@ -1,0 +1,39 @@
+POWERSURF EXPLORER LICENSE AGREEMENT
+================================================================
+
+You should carefully read the following terms and conditions
+before using this software. This software and the accompanying
+files are provided without warranty or guarantee of performance.
+Because of the various hardware and software environments into
+which PowerSurf Explorer may be put, no warrantee of software
+reliability is provided. While we attempt to fully test all 
+software components, we cannot assume the risk of using this
+software and/or any damage it may cause. In all instances, 
+PowerSurf Explorer will still attempt to rectify any software
+faults that may be found before further client deployment,
+but cannot take responsibility for software already deployed
+to the client systems.
+
+================================================================
+
+This software itself cannot be resold or used in any profit-
+generating activities without the author expressed written
+permission.
+
+The user is not allowed to attempt to reverse engineer,
+disassemble or decompile this software.
+
+================================================================
+
+THIS SOFTWARE IS PROVIDED AS-IS, WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGE TO YOU, YOUR
+COMPUTER, OR TO ANYONE OR ANYTHING ELSE, THAT MAY RESULT FROM
+ITS USE, OR MISUSE. USE IT AT YOUR OWN RISK.
+
+================================================================
+
+Copyright (C) 2006-2007, POWERSURF, All Right Reserved.
